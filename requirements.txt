@@ -1,0 +1,7 @@
+haystack-ai>=2.20.0
+pinecone-haystack>=2.0.0
+pyTelegramBotAPI>=4.37.0
+python-dotenv>=1.0.0
+openai>=1.0.0
+requests>=2.31.0
+Pillow>=10.0.0
